@@ -152,4 +152,4 @@ Client.on("interactionCreate", message => {
 
 
         
-Client.login("MTAxMzU1NTI3NTkyOTc2ODAxNg.G1cwGX.J0VwSc1-99ZG3voxOjWg21ZGv6Lkapf9FjbIPk")
+Client.login("MTAxMzU1NTI3NTkyOTc2ODAxNg.GrZknU.hWXxdAzqK-10BZhBvP9MsE0pxb08MNa39e6vaM")
